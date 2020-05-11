@@ -8,7 +8,10 @@
 ### TBD
 ### TBD
 ### TBD
-### TBD
+
+### Others
+
+* [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt
 
 # Paper Writing[Conference]
 
