@@ -11,7 +11,7 @@
 
 ### Others
 
-* [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [知乎](https://zhuanlan.zhihu.com/p/53008428)
+* [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
 # Paper Writing[Conference]
 
