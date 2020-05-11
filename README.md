@@ -1,3 +1,15 @@
+# Paper Writing[General Guidelines]
+
+### TBD
+### TBD
+### TBD
+### TBD
+### TBD
+### TBD
+### TBD
+### TBD
+### TBD
+
 # Paper Writing[Conference]
 
 ### Submission
