@@ -2,7 +2,10 @@
 
 ### TBD
 ### TBD
-### TBD
+
+### Figures & Plots
+
+* [**如何在论文中画出漂亮的插图?[知乎讨论]**](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
 
 ### Others
 
