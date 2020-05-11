@@ -19,6 +19,8 @@
 
 * [**How to write a good CVPR submission**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 
+* [**NIPS paper evaluation criteria**](http://nips07.stanford.edu/NIPS-evaluation.html)：http://nips07.stanford.edu/NIPS-evaluation.html
+
 ### Rebuttal
 
 * [**浅谈学术论文rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
