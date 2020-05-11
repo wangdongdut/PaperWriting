@@ -17,6 +17,8 @@
 
 ### Submission
 
+* [**How to write a good CVPR submission**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
+
 ### Rebuttal
 
 * [**浅谈学术论文rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
