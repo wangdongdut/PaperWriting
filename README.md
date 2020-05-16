@@ -23,6 +23,8 @@
 
 * https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary] :star2: 
 
+* **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+
 ### Figures & Plots
 
 * [**如何在论文中画出漂亮的插图?[知乎讨论]**](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
