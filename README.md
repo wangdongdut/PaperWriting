@@ -1,6 +1,9 @@
 # Paper Writing[General Guidelines]
 
-### TBD
+### Language 
+
+* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+
 ### TBD
 
 ### Figures & Plots
