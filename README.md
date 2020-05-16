@@ -76,7 +76,7 @@
 ### Template
 
 * **[IEEE Transcations](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**
-* 
+* **[Elsevier Latex](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**
 * **[Springer Latex](https://www.springer.com/gp/livingreviews/latex-templates)**
 
 # Online Reports & Slides
