@@ -4,7 +4,7 @@
 
 * XXX
 
-  * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.youtube.com/watch?v=0B9hhOTYa_I)
+  * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
 
 ### Language 
 
