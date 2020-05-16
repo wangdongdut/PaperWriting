@@ -55,8 +55,6 @@
 
 * [**How to write a good CVPR submission**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
 * [**NIPS paper evaluation criteria**](http://nips07.stanford.edu/NIPS-evaluation.html)：http://nips07.stanford.edu/NIPS-evaluation.html
-
-
 * [**Tips on publishing in NIPS, ICML or any top tier conferences for ML**](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)：https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/
 
 ### Review
@@ -98,8 +96,12 @@
 * **[How to Get Your SIGGRAPH Paper Rejected[Jim Kajiya]](https://www.siggraph.org/sites/default/files/kajiya.pdf)**
 
 ### Others
-  
+
+* **[Notes on Writing Research Papers[Charles Elkan]](http://cseweb.ucsd.edu/~elkan/254/papernotes.html)**
+
 * **[撰写学术论文的经验和教训[山世光]](https://kjc.jit.edu.cn/images/201391522430.pdf)**
+
+
 
 
 # Other Resources
