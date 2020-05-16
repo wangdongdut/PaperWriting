@@ -63,7 +63,6 @@
 ### Review
 
 * [**ICCV 2019 Reviewer Tutorial**](http://iccv2019.thecvf.com/files/reviewer/HowtoReviewforICCV.pptx)
-  * [**PPT**](http://iccv2019.thecvf.com/files/reviewer/HowtoReviewforICCV.pptx)
   * [**Tips for Writing Good Reviews**](http://iccv2019.thecvf.com/submission/main_conference/reviewer_guidelines#tips_writing)
   
 * [**Reviewing Papers: A Student Guide by Robin Murphy**](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
