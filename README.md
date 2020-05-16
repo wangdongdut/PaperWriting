@@ -90,4 +90,4 @@
 
 ### Others
   
-* **[撰写学术论文的经验和教训[山世光](https://kjc.jit.edu.cn/images/201391522430.pdf)**：https://kjc.jit.edu.cn/images/201391522430.pdf
+* **[[撰写学术论文的经验和教训[山世光]](https://kjc.jit.edu.cn/images/201391522430.pdf)**：https://kjc.jit.edu.cn/images/201391522430.pdf
