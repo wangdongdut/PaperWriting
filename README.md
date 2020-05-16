@@ -49,6 +49,8 @@
 
 * **[Overleaf](https://www.overleaf.com/)**：https://www.overleaf.com/
 
+* **[Checklist before Submitting a Journal Paper(http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)]**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
+
 # Paper Writing[Conference]
 
 ### Submission
