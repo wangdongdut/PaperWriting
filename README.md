@@ -38,7 +38,7 @@
 
 * [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
-* [**[Overleaf](https://www.overleaf.com/)**]：https://www.overleaf.com/
+* **[Overleaf](https://www.overleaf.com/)**：https://www.overleaf.com/
 
 # Paper Writing[Conference]
 
