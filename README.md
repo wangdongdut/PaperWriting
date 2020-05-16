@@ -95,7 +95,7 @@
 
 # Other Resources
 
-* https://github.com/beacandler/awesome-cv-writing
+* https://github.com/beacandler/awesome-cv-writing :star2: 
 
 * https://github.com/secdr/research-method
 
