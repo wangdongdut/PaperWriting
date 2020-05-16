@@ -68,6 +68,8 @@
   
 * [**Reviewing Papers: A Student Guide by Robin Murphy**](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
 
+* [**同行评审：如何成为一名优秀的审稿人[知乎]**](https://zhuanlan.zhihu.com/p/54027704)
+
 ### Rebuttal
 
 * [**浅谈学术论文rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
