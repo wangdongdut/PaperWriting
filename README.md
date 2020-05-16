@@ -43,6 +43,12 @@
 
 ### Supplementary Material
 
+* **Source Codes & Spotlight Slides**
+
+* **Detailed Derivation & Descriptions**
+
+* **High-resolution/Vivid Images, Cartoon & Videos **
+
 ### Others
 
 * [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
