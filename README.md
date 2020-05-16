@@ -54,3 +54,9 @@
 * **Part1**：https://www.youtube.com/watch?v=MKUCz_3Ee0A; https://www.bilibili.com/video/BV1NE411k7fd?from=search&seid=7907270681252177406
 * **Part2**：https://www.youtube.com/watch?v=4LEZED1YXm0; https://www.bilibili.com/video/BV1NE411k7Z9?from=search&seid=7907270681252177406
 * **Part3**：https://www.youtube.com/watch?v=imEtTnQKt4M；https://www.bilibili.com/video/BV1m441117zc?from=search&seid=7907270681252177406
+
+### How to Get Your CVPR Paper Rejected [Ming-Hsuan Yang]
+
+* **[Slides]()**：
+
+* **[Video](https://www.youtube.com/watch?v=jp_TGMU4ASI)**：https://www.youtube.com/watch?v=jp_TGMU4ASI
