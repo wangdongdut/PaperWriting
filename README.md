@@ -95,6 +95,10 @@
 
 # Other Resources
 
+* https://github.com/beacandler/awesome-cv-writing
+
 * https://github.com/secdr/research-method
 
 * https://github.com/taopanpan/CasitLab
+
+* https://github.com/JunpengCode/Writing
