@@ -87,3 +87,7 @@
 * **[Slides](http://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)**，**[Video](https://www.youtube.com/watch?v=jp_TGMU4ASI)**
 
 * **[How to Get Your SIGGRAPH Paper Rejected](https://www.siggraph.org/sites/default/files/kajiya.pdf)**
+
+### Others
+  
+* **[撰写学术论文的经验和教训[山世光](https://kjc.jit.edu.cn/images/201391522430.pdf)**：https://kjc.jit.edu.cn/images/201391522430.pdf
