@@ -70,6 +70,8 @@
 
 * [**同行评审：如何成为一名优秀的审稿人[知乎]**](https://zhuanlan.zhihu.com/p/54027704)
 
+* [**做学术期刊的审稿人是怎样的体验?[知乎讨论]**](https://www.zhihu.com/question/38881545)
+
 ### Rebuttal
 
 * [**浅谈学术论文rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
