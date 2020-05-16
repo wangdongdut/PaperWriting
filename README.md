@@ -73,6 +73,8 @@
 
 ### Cover Letter
 
+* **[How to Write the Best Journal Submission Cover Letter](https://wordvice.com/journal-submission-cover-letter/)**
+
 ### Response Letter
 
 ### Template
