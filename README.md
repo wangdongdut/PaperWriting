@@ -47,7 +47,7 @@
 
 * **Detailed Derivation & Descriptions**
 
-* **High-resolution and Vivid Images, Cartoon & Videos **
+* **High-resolution and Vivid Images, Cartoon & Videos**
 
 ### Others
 
