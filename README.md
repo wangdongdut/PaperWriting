@@ -2,6 +2,10 @@
 
 ### Research
 
+* XXX
+
+  * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.youtube.com/watch?v=0B9hhOTYa_I)
+
 ### Language 
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
