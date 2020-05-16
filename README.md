@@ -23,7 +23,7 @@
 
 * https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary] :star2: 
 
-* **Mathematical Writing**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+* **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
 ### Figures & Plots
 
