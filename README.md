@@ -131,3 +131,5 @@
 * https://github.com/taopanpan/CasitLab
 
 * https://github.com/JunpengCode/Writing
+
+[**备注**]：本页资源为[**DUT-ICE**](http://ice.dlut.edu.cn/)**《科技论文写作》-图像视觉方向课程**收集
