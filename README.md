@@ -49,8 +49,8 @@
   
   * [**谈如何写一篇合格的国际学术论文-赵鑫**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
   
-### How to be a Good Citizen of the CVPR Community 
+### How to be a Good Citizen of the CVPR Community [Slides&Video](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)
 
-* [**Part1**](https://www.youtube.com/watch?v=MKUCz_3Ee0A)：https://www.youtube.com/watch?v=MKUCz_3Ee0A; https://www.bilibili.com/video/BV1NE411k7fd?from=search&seid=7907270681252177406
-* [**Part2**](https://www.youtube.com/watch?v=4LEZED1YXm0)：https://www.youtube.com/watch?v=4LEZED1YXm0; https://www.bilibili.com/video/BV1NE411k7Z9?from=search&seid=7907270681252177406
-* [**Part3**](https://www.youtube.com/watch?v=imEtTnQKt4M)：https://www.youtube.com/watch?v=imEtTnQKt4M；https://www.bilibili.com/video/BV1m441117zc?from=search&seid=7907270681252177406
+* [**Part1**]：https://www.youtube.com/watch?v=MKUCz_3Ee0A; https://www.bilibili.com/video/BV1NE411k7fd?from=search&seid=7907270681252177406
+* [**Part2**]：https://www.youtube.com/watch?v=4LEZED1YXm0; https://www.bilibili.com/video/BV1NE411k7Z9?from=search&seid=7907270681252177406
+* [**Part3**]：https://www.youtube.com/watch?v=imEtTnQKt4M；https://www.bilibili.com/video/BV1m441117zc?from=search&seid=7907270681252177406
