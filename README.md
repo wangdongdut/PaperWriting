@@ -69,10 +69,15 @@
 
 # Paper Writing[Journal]
 
-### Submission
+### Cover Letter
 
 ### Response Letter
 
+### Template
+
+* [**[IEEE Transcations](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**]
+* 
+* 
 
 # Online Reports & Slides
 
