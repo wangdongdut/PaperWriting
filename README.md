@@ -2,7 +2,7 @@
 
 ### Research
 
-* XXX
+* [**像外行一样思考，像专家一样实践——科研成功之道**(https://book.douban.com/subject/1867455/)]
 
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
 
