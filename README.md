@@ -84,7 +84,7 @@
 * [**怎样写计算机会议的rebuttal**](https://qiyuhua.github.io/%E5%AD%A6%E4%B9%A0/2013/05/17/rebuttal.html)：https://qiyuhua.github.io/%E5%AD%A6%E4%B9%A0/2013/05/17/rebuttal.html
 * [**How to write a rebuttal of paper review**](https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/)：https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/
 
-### [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+### [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
 
 # Paper Writing[Journal]
 
