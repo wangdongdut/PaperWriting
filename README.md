@@ -62,6 +62,10 @@
 
 ### Review
 
+* [**ICCV 2019 Reviewer Tutorial**](http://iccv2019.thecvf.com/files/reviewer/HowtoReviewforICCV.pptx)
+  * [**PPT**](http://iccv2019.thecvf.com/files/reviewer/HowtoReviewforICCV.pptx)
+  * [**Tips for Writing Good Reviews**](http://iccv2019.thecvf.com/submission/main_conference/reviewer_guidelines#tips_writing)
+
 ### Rebuttal
 
 * [**浅谈学术论文rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
