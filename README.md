@@ -7,7 +7,7 @@
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
   
   
-* **What is Research and How to do it?[Yi Ma](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
+* **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
 ### Language 
 
