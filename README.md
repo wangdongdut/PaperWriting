@@ -74,6 +74,7 @@
 ### Cover Letter
 
 * **[How to Write the Best Journal Submission Cover Letter](https://wordvice.com/journal-submission-cover-letter/)**
+* **[Writing a cover letter for journal submission](https://authorservices.taylorandfrancis.com/writing-a-cover-letter/)**
 
 ### Response Letter
 
