@@ -43,3 +43,15 @@
 ### Submission
 
 ### Response Letter
+
+
+# Online Reports
+
+### 智源论坛·论文写作专题报告会[202003]
+
+  * [**论文写作小白的成长之路-蓝艳艳**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
+  
+  * [**计算机视觉会议论文从投稿到接收-施柏鑫**](https://zhuanlan.zhihu.com/p/139571199) https://www.bilibili.com/video/BV1n7411o7dU?p=2
+  
+  * [**谈如何写一篇合格的国际学术论文-赵鑫**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
+  
