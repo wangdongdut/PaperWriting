@@ -43,11 +43,11 @@
 
 ### Supplementary Material
 
-* **Source Codes & Spotlight Slides: **
+* **Source Codes & Spotlight Slides**: 
 
-* **Detailed Derivation & Descriptions: **
+* **Detailed Derivation & Descriptions**: 
 
-* **High-resolution and Vivid Images, Cartoon & Videos: **
+* **High-resolution and Vivid Images, Cartoon & Videos**: 
 
 ### Others
 
