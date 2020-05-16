@@ -57,6 +57,6 @@
 
 ### How to Get Your CVPR Paper Rejected [Ming-Hsuan Yang]
 
-* **[Slides]()**：
+* **[Slides](http://personalinterests.lipingyang.org/wp-content/uploads/2019/03/How-to-get-your-CVPR-paper-rejected.pptx.pdf)
 
 * **[Video](https://www.youtube.com/watch?v=jp_TGMU4ASI)**：https://www.youtube.com/watch?v=jp_TGMU4ASI
