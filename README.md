@@ -18,9 +18,9 @@
 
 * [**[Ginger](https://www.gingersoftware.com/)**]：https://www.gingersoftware.com/
 
-* [**[LanguageTool(https://languagetool.org/)**]：https://languagetool.org/
+* [**[LanguageTool](https://languagetool.org/)**]：https://languagetool.org/
 
-* [**Many Others**]：[[1](https://zhuanlan.zhihu.com/p/47189517)]]，[[2](https://zhuanlan.zhihu.com/p/28379537)]]，[[3](https://www.cnblogs.com/jins-note/p/9565314.html)]]，...
+* [**Many Others**]：[[1](https://zhuanlan.zhihu.com/p/47189517)]，[[2](https://zhuanlan.zhihu.com/p/28379537)]，[[3](https://www.cnblogs.com/jins-note/p/9565314.html)]，...
 
 ### Supplementary Material
 
