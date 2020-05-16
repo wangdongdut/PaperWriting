@@ -66,7 +66,7 @@
 ### Response Letter
 
 
-# Online Reports & Resources
+# Online Reports & Slides
 
 ### 智源论坛·论文写作专题报告会[202003]
 
@@ -93,3 +93,8 @@
 * **[撰写学术论文的经验和教训[山世光]](https://kjc.jit.edu.cn/images/201391522430.pdf)**
 
 
+# Other Resources
+
+* https://github.com/secdr/research-method
+
+* https://github.com/taopanpan/CasitLab
