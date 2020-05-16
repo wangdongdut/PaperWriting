@@ -2,9 +2,12 @@
 
 ### Research
 
-* [**[像外行一样思考，像专家一样实践——科研成功之道](https://book.douban.com/subject/1867455/)**]
+* **[像外行一样思考，像专家一样实践——科研成功之道](https://book.douban.com/subject/1867455/)**
 
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
+  
+  
+* **What is Research and How to do it?[Yi Ma](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
 ### Language 
 
@@ -64,11 +67,11 @@
 
 ### 智源论坛·论文写作专题报告会[202003]
 
-  * [**论文写作小白的成长之路-蓝艳艳**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
+  * [**论文写作小白的成长之路[蓝艳艳]**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
   
-  * [**计算机视觉会议论文从投稿到接收-施柏鑫**](https://zhuanlan.zhihu.com/p/139571199) https://www.bilibili.com/video/BV1n7411o7dU?p=2
+  * [**计算机视觉会议论文从投稿到接收[施柏鑫]**](https://zhuanlan.zhihu.com/p/139571199) https://www.bilibili.com/video/BV1n7411o7dU?p=2
   
-  * [**谈如何写一篇合格的国际学术论文-赵鑫**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
+  * [**谈如何写一篇合格的国际学术论文[赵鑫]**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
   
 ### How to be a Good Citizen of the CVPR Community [[Slides&Video](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)]
 
