@@ -61,7 +61,7 @@
 
 ### Submission
 
-* [**How to write a good CVPR submission**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
+* [**How to write a good CVPR submission[Bill Freeman]**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf [**2018-version**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
 * [**NIPS paper evaluation criteria**](http://nips07.stanford.edu/NIPS-evaluation.html)：http://nips07.stanford.edu/NIPS-evaluation.html
 * [**Tips on publishing in NIPS, ICML or any top tier conferences for ML**](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)：https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/
 * **More Resources**：**See [Online Reports & Slides](https://github.com/wangdongdut/PaperWriting/blob/master/README.md#online-reports--slides)**
