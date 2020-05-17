@@ -9,6 +9,8 @@
 * **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)**：凌晓峰/杨强，出版社: 清华大学出版社
 
 * **[做研究与写论文[周志华]](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)**：https://zhuanlan.zhihu.com/p/98747105
+
+* **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
   
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
