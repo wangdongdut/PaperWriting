@@ -136,11 +136,11 @@
 
 ### Academic resource [Simon Peyton Jones, Microsoft.com]
 
-* **[How to Write A Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+* **[How to Write A Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)**
 
-* **[How to Write A Great Research Proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
+* **[How to Write A Great Research Proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)**
 
-* **[How to Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
+* **[How to Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)**
 
 ### Others
 
