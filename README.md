@@ -11,7 +11,9 @@
 * **[做研究与写论文[周志华]](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)**：https://zhuanlan.zhihu.com/p/98747105
 
 * **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
-  
+
+* **[How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)**：http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf
+
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
 ### Language 
