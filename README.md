@@ -134,6 +134,8 @@
 
 * **[撰写学术论文的经验和教训[山世光]](https://kjc.jit.edu.cn/images/201391522430.pdf)**
 
+* **[How to Write A Computer Science Paper](https://www.froihofer.net/en/students/how-to-write-a-computer-science-paper.html)**
+
 # Other Resources
 
 * https://github.com/beacandler/awesome-cv-writing :star2: 
