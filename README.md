@@ -16,6 +16,8 @@
 
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
+* **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
+
 ### Language 
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
