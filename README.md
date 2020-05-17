@@ -134,6 +134,14 @@
 
 * **[How to Get Your SIGGRAPH Paper Rejected[Jim Kajiya]](https://www.siggraph.org/sites/default/files/kajiya.pdf)**
 
+### Academic resource [Simon Peyton Jones, Microsoft.com]
+
+* **[How to Write A Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+
+* **[How to Write A Great Research Proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
+
+* **[How to Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
+
 ### Others
 
 * **[Notes on Writing Research Papers[Charles Elkan]](http://cseweb.ucsd.edu/~elkan/254/papernotes.html)**
