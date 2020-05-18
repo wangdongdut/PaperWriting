@@ -170,6 +170,8 @@
 
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot)：**Very Interesting!**
 
+* [我爱计算机视觉](https://www.52cv.net/)
+
 * [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)，[计算机视觉研究入门全指南](https://www.52cv.net/?p=524)
 
 * [计算机视觉入门大全：基础概念、运行原理、应用案例详解](https://zhuanlan.zhihu.com/p/88898444)
