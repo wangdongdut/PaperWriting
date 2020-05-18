@@ -168,10 +168,12 @@
 
 * https://github.com/JunpengCode/Writing
 
-* [罗杰波、马毅、华刚等谈视觉研究那些事：是时候重新定义视觉了[雷锋网202005]](https://www.leiphone.com/news/202005/aTWsDtgTcB9VrRWC.html)
-
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot)：**Very Interesting!**
 
+* [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)，[计算机视觉研究入门全指南](https://www.52cv.net/?p=524)
+
 * [计算机视觉入门大全：基础概念、运行原理、应用案例详解](https://zhuanlan.zhihu.com/p/88898444)
+
+* [罗杰波、马毅、华刚等谈视觉研究那些事：是时候重新定义视觉了[雷锋网202005]](https://www.leiphone.com/news/202005/aTWsDtgTcB9VrRWC.html)
 
 [**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
