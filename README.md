@@ -35,6 +35,12 @@
 
 * [**如何在论文中画出漂亮的插图?[知乎讨论]**](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
 
+### BibTex 
+
+* **[BibTex](http://www.bibtex.org/)**: http://www.bibtex.org/
+* **[BibTeX Templates[Staf,MIT]](http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf)**: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
+* **[Bibliography Management with BibTex[Overleaf]](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex)**：https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex
+
 ### Grammar Mistakes & Typos
 
 * **[Grammarly](https://www.grammarly.com/)**：https://www.grammarly.com/
