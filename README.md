@@ -172,6 +172,6 @@
 
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot)：**Very Interesting!**
 
-* [计算机视觉入门大全：基础概念、运行原理、应用案例详解](https://zhuanlan.zhihu.com/p/88898444)：https://zhuanlan.zhihu.com/p/88898444
+* [计算机视觉入门大全：基础概念、运行原理、应用案例详解](https://zhuanlan.zhihu.com/p/88898444)
 
 [**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
