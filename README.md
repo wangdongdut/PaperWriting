@@ -161,7 +161,7 @@
 
 # Oral & Poster
 
-### [如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)
+* **[如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)**
 
 # Other Resources
 
