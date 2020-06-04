@@ -159,6 +159,10 @@
 
 * **[How to Write A Computer Science Paper](https://www.froihofer.net/en/students/how-to-write-a-computer-science-paper.html)**
 
+# Oral & Poster
+
+### [如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)
+
 # Other Resources
 
 * https://github.com/beacandler/awesome-cv-writing :star2: 
