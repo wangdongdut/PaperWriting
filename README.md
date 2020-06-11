@@ -56,7 +56,7 @@
 ### Supplementary Material [Examples] --TBD--
 
 * **Source Codes & Spotlight Slides**: 
-  * The best supplementary material may be the executable codes, thus, you can easily answer the **reproducibility** question. 
+  * The best supplementary material may be the executable codes, thus, you can easily answer **reproducibility**. 
 
 * **Detailed Derivation & Descriptions**: 
 
