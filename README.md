@@ -124,6 +124,8 @@
 
 # Online Reports & Slides
 
+### [**How to write a good review? - CVPR 2020 Tutorial**](https://www.youtube.com/watch?v=W1zPtTt43LI): https://www.youtube.com/watch?v=W1zPtTt43LI
+
 ### 智源论坛·论文写作专题报告会[202003]
 
   * [**论文写作小白的成长之路[蓝艳艳]**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
