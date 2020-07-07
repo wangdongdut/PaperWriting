@@ -35,6 +35,8 @@
 
 * [**如何在论文中画出漂亮的插图?[知乎讨论]**](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
 
+* [**论文绘图神器来了：一行代码绘制不同期刊格式图表，哈佛博士后开源[量子位/知乎]**](https://zhuanlan.zhihu.com/p/151642250)：https://zhuanlan.zhihu.com/p/151642250
+
 ### BibTex 
 
 * **[BibTex](http://www.bibtex.org/)**: http://www.bibtex.org/
