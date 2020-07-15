@@ -192,6 +192,6 @@
 
 * [CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]
 
-* [20200710-VALSE webinar 如何写/审AI领域的论文](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)[[视频链接](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)]:star2:
+* [20200710-VALSE webinar 如何写/审AI领域的论文](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA)[[视频链接](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)]:star2:
 
 [**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
