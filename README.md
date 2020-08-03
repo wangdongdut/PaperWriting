@@ -118,6 +118,7 @@
 * [**How to Write an Effective Response Letter to a Journal Editor and Reviewers**](https://cdn.ymaws.com/www.amwa.org/resource/resmgr/Conference/2017/SessionRoundtableHandouts/Roundtable_HandoutWritingEff.pdf)
 * [**Writing Effective Revision Response Letters[Niklas Elmqvist]**](https://sites.umiacs.umd.edu/elm/2017/06/23/revision-response-letters/) 
 * [**Reviewing papers and writing response letters[Elena Parmiggiani]**](https://www.ntnu.no/wiki/download/attachments/98080956/Paper%20reviews%20and%20response%20letter%20-%20Elena%20P.pdf?version=4&modificationDate=1493744889000&api=v2)
+* [**Apply More Time for Journal Revision**](https://github.com/wangdongdut/PaperWriting/blob/master/Apply%20More%20Time%20for%20Journal%20Revision.doc)
 
 ### Template
 
