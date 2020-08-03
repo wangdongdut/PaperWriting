@@ -42,7 +42,7 @@
 * **[BibTex](http://www.bibtex.org/)**: http://www.bibtex.org/
 * **[BibTeX Templates[Staf,MIT]](http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf)**: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
 * **[Bibliography Management with BibTex[Overleaf]](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex)**：https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex
-* **[[Writing Tips-bib](https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx)]**：https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx :star2:
+* **[[Writing Tips-bib](https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx):star2:]**：https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx 
 
 ### Grammar Mistakes & Typos
 
