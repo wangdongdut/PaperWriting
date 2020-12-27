@@ -8,7 +8,7 @@
   
 * **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 
-* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条
+* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
 * **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)**：凌晓峰/杨强，出版社: 清华大学出版社
 
