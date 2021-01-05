@@ -5,12 +5,8 @@
 * **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)**
 
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
-  
-* **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 
-* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
-
-* **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)**：凌晓峰/杨强，出版社: 清华大学出版社
+* **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)：凌晓峰/杨强，出版社: 清华大学出版社**
 
 * **[做研究与写论文[周志华]](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)**：https://zhuanlan.zhihu.com/p/98747105
 
@@ -24,6 +20,10 @@
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
 * **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
+
+* **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
+
+* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
 ### Language 
 
