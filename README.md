@@ -1,5 +1,9 @@
 # Paper Writing[General Guidelines]
 
+:star2: **VALSE Webinar 21-09期 总第235期 如何做出高水平的科研工作？--来自顶会AC/PC的观点[2021年04月07日 (星期三)-晚上20:00 (北京时间)]**
+        https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ
+
+
 ### Research & Writting
 
 * **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)**
