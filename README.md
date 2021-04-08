@@ -152,7 +152,9 @@
   * [**谈如何写一篇合格的国际学术论文[赵鑫]**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
 
 ### 视觉大佬们聊研究，写/审论文
-  
+
+* **[VALSE Webinar 如何做出高水平的科研工作[Valse20210407]]()[[视频链接]()][[Panel讨论]()]** :star2:
+
 * **[CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]**
 
 * **[VALSE webinar 如何写/审AI领域的论文[Valse20200710]](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA)[[视频链接](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)][[Panel讨论](https://mp.weixin.qq.com/s/KZBs2yC05eEfcU0qHrlNSg)]** :star2:
