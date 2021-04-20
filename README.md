@@ -31,6 +31,8 @@
 
 * **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
+* **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)
+
 ### Language 
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
