@@ -1,9 +1,5 @@
 # Paper Writing[General Guidelines]
 
-:star2: **VALSE Webinar 21-09期 总第235期 如何做出高水平的科研工作？--来自顶会AC/PC的观点[2021年04月07日 (星期三)-晚上20:00 (北京时间)]**
-        https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ
-
-
 ### Research & Writting
 
 * **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)**
@@ -157,7 +153,7 @@
 
 ### 视觉大佬们聊研究，写/审论文
 
-* **[VALSE Webinar 如何做出高水平的科研工作[Valse20210407]]()[[视频链接]()][[Panel讨论]()]** :star2:
+* **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]]()[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]** :star2:
 
 * **[CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]**
 
