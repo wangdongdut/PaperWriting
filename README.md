@@ -29,7 +29,7 @@
 
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
 
-* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)：https://mmcheng.net/writing/
+* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：https://mmcheng.net/writing/
 
 ### Language 
 
