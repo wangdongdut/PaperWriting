@@ -76,8 +76,11 @@
 
 ### Supplementary Material [Examples]
 
-* **Source Codes & Spotlight Slides**: 
+* **Source Codes**: 
+  * **Linus Torvalds Quote: “Talk is cheap. Show me the code.”**
   * The best supplementary material may be the executable codes, thus, you can easily answer **reproducibility**. 
+
+* **Spotlight Slides**: 
 
 * **Detailed Derivation & Descriptions**: 
 
