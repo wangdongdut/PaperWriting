@@ -2,7 +2,7 @@
 
 ### Research & Writting
 
-* **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)** [[**GoogleDoc**](https://docs.google.com/viewer?a=v&pid=sites&srcid=dWFsYmVydGEuY2F8amlueGluLWhlfGd4OjJkZTdlZmNhNDljYzhiYWM)]
+* **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)** [[**GoogleDoc**:star2:](https://docs.google.com/viewer?a=v&pid=sites&srcid=dWFsYmVydGEuY2F8amlueGluLWhlfGd4OjJkZTdlZmNhNDljYzhiYWM)]
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
 
 * **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)：凌晓峰/杨强，出版社: 清华大学出版社**
