@@ -224,4 +224,4 @@
 
 [**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
 
-![avatar](/blob/master/Paper%20Writing.png)
+![avatar](Paper%20Writing.png)
