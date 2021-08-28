@@ -11,7 +11,7 @@
 
 * **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)：凌晓峰/杨强，出版社: 清华大学出版社**
 
-* **[做研究与写论文[周志华]](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)**：https://zhuanlan.zhihu.com/p/98747105 
+* **[做研究与写论文[周志华]](https://zhuanlan.zhihu.com/p/98747105)**：https://zhuanlan.zhihu.com/p/98747105 
 
 * :star2:**[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
 
