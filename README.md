@@ -151,7 +151,13 @@
 
 # Online Reports & Slides
 
-### 智源论坛·论文写作专题报告会[202003]
+### 智源大会·科研技能提升讲座[2021]
+
+   * [**如何撰写高质量科技论文[刘洋]**]()：https://www.bilibili.com/video/BV1QK4y1g71C
+   
+   * [**审稿视角下的计算机视觉论文——从投稿到接收[施柏鑫]**]()：https://www.bilibili.com/video/BV1p64y1R7JP
+
+### 智源论坛·论文写作专题报告会[2020]
 
   * [**论文写作小白的成长之路[蓝艳艳]**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
   
