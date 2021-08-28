@@ -106,8 +106,9 @@
 
 ### Review
 
-* [**ICCV 2019 Reviewer Tutorial**](http://iccv2019.thecvf.com/files/reviewer/HowtoReviewforICCV.pptx)
-  * [**Tips for Writing Good Reviews**](http://iccv2019.thecvf.com/submission/main_conference/reviewer_guidelines#tips_writing)
+* [**Discussions in Top-tier Conferences**]:star:
+  * [**Reviewing the Review Process(ICCV2021)**](https://sites.google.com/view/reviewing-the-review-process/): https://sites.google.com/view/reviewing-the-review-process/
+  * [**How to write a good review?(CVPR2020)**](https://sites.google.com/view/making-reviews-great-again/): https://sites.google.com/view/making-reviews-great-again/
   
 * [**Reviewing Papers: A Student Guide[Robin Murphy]**](https://sites.cs.ucsb.edu/~ebelding/courses/284/papers/ReviewingPapersStudentGuide.html)
 
