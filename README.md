@@ -151,9 +151,6 @@
 
 # Online Reports & Slides
 
-### How to write a good review? - CVPR 2020 Tutorial
-  * **[Video](https://www.youtube.com/watch?v=W1zPtTt43LI)**
-
 ### 智源论坛·论文写作专题报告会[202003]
 
   * [**论文写作小白的成长之路[蓝艳艳]**](https://zhuanlan.zhihu.com/p/135989892)：https://www.bilibili.com/video/BV1n7411o7dU?p=1
@@ -164,7 +161,7 @@
 
 ### 视觉大佬们聊研究，写/审论文
 
-* **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]]()[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]** :star2:
+* **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]** :star2:
 
 * **[CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]**
 
