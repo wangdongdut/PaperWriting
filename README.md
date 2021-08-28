@@ -106,7 +106,7 @@
 
 ### Review
 
-* [**Discussions in Top-tier Conferences**]:star:
+* **Discussions in Top-tier Conferences**:star:
   * [**Reviewing the Review Process(ICCV2021)**](https://sites.google.com/view/reviewing-the-review-process/): https://sites.google.com/view/reviewing-the-review-process/
   * [**How to write a good review?(CVPR2020)**](https://sites.google.com/view/making-reviews-great-again/): https://sites.google.com/view/making-reviews-great-again/
   
