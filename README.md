@@ -13,6 +13,10 @@
 
 * **[做研究与写论文[周志华]](https://zhuanlan.zhihu.com/p/98747105)**：https://zhuanlan.zhihu.com/p/98747105 
 
+** **[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
+   * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
+   * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
+
 * :star2:**[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
 
 * **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
