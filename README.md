@@ -13,7 +13,7 @@
 
 * **[做研究与写论文[周志华]](https://zhuanlan.zhihu.com/p/98747105)**：https://zhuanlan.zhihu.com/p/98747105 
 
-* **[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
+* :star2:**[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
    * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
    * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
 
