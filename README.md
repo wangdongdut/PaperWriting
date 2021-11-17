@@ -206,7 +206,8 @@
 * **[如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)**
 * **[懒人制作学术会议Oral/Spotlight Video指南](https://zhuanlan.zhihu.com/p/142394787?from_voters_page=true)**
 * **Poster范例**
-  * [Valse2021-Posters](http://valser.org/2021/#/poster)：http://valser.org/2021/#/poster
+  * [Poster Template from Prof. Bolei Zhou](https://github.com/zhoubolei/poster_template)：https://github.com/zhoubolei/poster_template
+  * [Valse2021 Poster PDFs](http://valser.org/2021/#/poster)：http://valser.org/2021/#/poster
 
 # Other Resources
 
