@@ -64,7 +64,7 @@
    * [论文中对比实验作图利器：MulimgViewer（多图像浏览器）](https://zhuanlan.zhihu.com/p/389630280): [[**知乎**](https://zhuanlan.zhihu.com/p/389630280)][[**Github**](https://github.com/nachifur/MulimgViewer)] 
    * [论文绘图神器来了：一行代码绘制不同期刊格式图表，哈佛博士后开源[量子位/知乎]](https://zhuanlan.zhihu.com/p/151642250)：https://zhuanlan.zhihu.com/p/151642250
 
-### BibTex 
+### BibTex & Reference
 
 * **[BibTex](http://www.bibtex.org/)**: http://www.bibtex.org/
 * **[BibTeX Templates[Staf,MIT]](http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf)**: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
