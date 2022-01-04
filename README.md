@@ -11,7 +11,9 @@
 
 * **[You and Your Research [Richard Hamming]](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**：[**[Website](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**][**[Video](https://www.youtube.com/watch?v=a1zDuOPkMSw)**]
 
-* **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html):star2:**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
+* **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
+
+* :star2: **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：https://mmcheng.net/writing/
 
 * :star2:**[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
    * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
@@ -35,8 +37,6 @@
 * **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
-
-* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：https://mmcheng.net/writing/
 
 ### Latex
 
