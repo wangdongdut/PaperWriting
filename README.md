@@ -74,7 +74,7 @@
 
 ### Grammar Mistakes & Typos
 
-* :star:**Checklist before Submitting a Journal Paper[(http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)]**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
+* :star:**[Checklist before Submitting a Journal Paper](http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
 
 * **[Grammarly](https://www.grammarly.com/)**：https://www.grammarly.com/
 
