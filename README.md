@@ -232,6 +232,6 @@
 
 * [罗杰波、马毅、华刚等谈视觉研究那些事：是时候重新定义视觉了[雷锋网202005]](https://www.leiphone.com/news/202005/aTWsDtgTcB9VrRWC.html)
 
-[**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《科技论文写作》课程(图像视觉方向)教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
+[**备注**]：**本页为[DUT-ICE](http://ice.dlut.edu.cn/)《深度学习》《深度学习与算法设计》《科技论文写作》课程教学收集，教学/科研目的可随意转载，水平有限，不足之处见谅。**
 
 <img src=Paper%20Writing.png width=30% />
