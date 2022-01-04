@@ -208,6 +208,8 @@
 
 * **[How to Write A Computer Science Paper](https://www.froihofer.net/en/students/how-to-write-a-computer-science-paper.html)**
 
+* **[从IEEE汇刊主编视角看如何提升科技论文质量[过敏意]](https://mp.weixin.qq.com/s/KXFJymNek39QMao5CpGdaw)**
+
 # Oral & Poster
 
 * **[如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)**
