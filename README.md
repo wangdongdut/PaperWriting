@@ -136,8 +136,6 @@
 * [**How to write a rebuttal of paper review**](https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/)：https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/
 * [**论文得分低、濒临被拒不要慌，18条rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
-
-
 # Paper Writing[Journal]
 
 ### Cover Letter
@@ -174,13 +172,13 @@
   
   * [**谈如何写一篇合格的国际学术论文[赵鑫]**](https://zhuanlan.zhihu.com/p/136005095)：https://www.bilibili.com/video/BV1n7411o7dU?p=3
 
-### 视觉大佬们聊研究，写/审论文
+### 视觉大佬们聊研究，写/审论文 :star2:
 
-* **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]** :star2:
+* **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]**
 
 * **[CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]**
 
-* **[VALSE webinar 如何写/审AI领域的论文[Valse20200710]](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA)[[视频链接](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)][[Panel讨论](https://mp.weixin.qq.com/s/KZBs2yC05eEfcU0qHrlNSg)]** :star2:
+* **[VALSE webinar 如何写/审AI领域的论文[Valse20200710]](https://mp.weixin.qq.com/s/Zuey0kbNPQLWR_696fzAhA)[[视频链接](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)][[Panel讨论](https://mp.weixin.qq.com/s/KZBs2yC05eEfcU0qHrlNSg)]**
   
 ### How to be a Good Citizen of the CVPR Community [[Slides&Video](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)]
 
