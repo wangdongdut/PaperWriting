@@ -42,9 +42,7 @@
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
 
-* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
-
-* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+* [**LaTeXStudio**](https://www.latexstudio.net/)：[[Homepage](https://www.latexstudio.net/)][[Github](https://github.com/latexstudio/LaTeX-TeXWiki)][[B站](https://space.bilibili.com/209746320)]
 
 ### Language 
 
