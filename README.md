@@ -53,9 +53,9 @@
   * [AWL Headwords](https://www.wgtn.ac.nz/lals/resources/academicwordlist/awl-headwords/Headwords-of-the-Academic-Word-List.pdf) 
   * [AWL Most Frequent Words in Sublists](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/AWLmostfreqsublists.pdf)
 
-* https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary] :star2: 
-
 * **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+
+* **https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary]**
 
 ### Figures & Plots
 
@@ -221,17 +221,11 @@
 
 # Other Resources
 
-* https://github.com/beacandler/awesome-cv-writing :star2: 
-
 * https://github.com/secdr/research-method
 
 * https://github.com/taopanpan/CasitLab
 
-* https://github.com/JunpengCode/Writing
-
 * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot)：**Very Interesting!**
-
-* [我爱计算机视觉](https://www.52cv.net/)
 
 * [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)，[计算机视觉研究入门全指南](https://www.52cv.net/?p=524)
 
