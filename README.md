@@ -38,6 +38,14 @@
 
 * **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：https://mmcheng.net/writing/
 
+### Latex
+
+* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+
+* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+
+* [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+
 ### Language 
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
