@@ -104,6 +104,8 @@
 
 # Paper Writing[Conference]
 
+### :star2:[AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
+
 ### Submission
 
 * [**How to write a good CVPR submission[Bill Freeman]**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf [**2018-version**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
@@ -135,7 +137,7 @@
 * [**How to write a rebuttal of paper review**](https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/)：https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/
 * [**论文得分低、濒临被拒不要慌，18条rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
-### [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
+
 
 # Paper Writing[Journal]
 
