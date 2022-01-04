@@ -100,8 +100,6 @@
 
 * [**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
-* **[Overleaf](https://www.overleaf.com/)**：https://www.overleaf.com/
-
 * **[Checklist before Submitting a Journal Paper](http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
 
 # Paper Writing[Conference]
