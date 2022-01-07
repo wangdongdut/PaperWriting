@@ -36,6 +36,8 @@
 
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
 
+* **[PHD Comics](https://phdcomics.com/)**: https://phdcomics.com/
+
 ### Latex
 
 * :star2: [**Overleaf**](https://www.overleaf.com/https://www.overleaf.com/)：https://www.overleaf.com/
