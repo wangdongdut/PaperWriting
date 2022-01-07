@@ -59,7 +59,7 @@
 
 * **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
-* **[公式编辑器推荐！研究生写论文必备神器[知乎]](https://zhuanlan.zhihu.com/p/336084313)**:https://zhuanlan.zhihu.com/p/336084313
+* **[公式编辑器推荐！研究生写论文必备神器[知乎]](https://zhuanlan.zhihu.com/p/336084313)**: https://zhuanlan.zhihu.com/p/336084313
 
 ### Figures & Plots
 
