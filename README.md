@@ -30,8 +30,6 @@
 
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
-* **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
-
 * **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 
 * **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
@@ -139,6 +137,8 @@
 * [**论文得分低、濒临被拒不要慌，18条rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
 ### Paper Reading
+
+* **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
 
 * [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
 
