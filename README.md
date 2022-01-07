@@ -138,6 +138,10 @@
 * [**How to write a rebuttal of paper review**](https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/)：https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/
 * [**论文得分低、濒临被拒不要慌，18条rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
+### Paper Reading
+
+* [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
+
 # Paper Writing[Journal]
 
 ### Cover Letter
