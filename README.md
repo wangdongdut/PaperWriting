@@ -46,7 +46,7 @@
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
 
-* [**The Academic Word List**](https://www.wgtn.ac.nz/lals/resources/academicwordlist)：https://www.wgtn.ac.nz/lals/resources/academicwordlist </br> 
+* [**The Academic Word List**](https://www.wgtn.ac.nz/lals/resources/academicwordlist)：https://www.wgtn.ac.nz/lals/resources/academicwordlist
   * [AWL Sublist Families](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/awlsublists1.pdf)
   * [AWL Headwords](https://www.wgtn.ac.nz/lals/resources/academicwordlist/awl-headwords/Headwords-of-the-Academic-Word-List.pdf) 
   * [AWL Most Frequent Words in Sublists](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/AWLmostfreqsublists.pdf)
