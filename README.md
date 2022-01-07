@@ -39,6 +39,7 @@
 ### Latex
 
 * :star2: [**Overleaf**](https://www.overleaf.com/https://www.overleaf.com/)：https://www.overleaf.com/
+  * [**Learn LaTeX in 30 minutes**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
 * [**LaTeXStudio**](https://www.latexstudio.net/)：[[Homepage](https://www.latexstudio.net/)][[Github](https://github.com/latexstudio/LaTeX-TeXWiki)][[B站](https://space.bilibili.com/209746320)]
 
