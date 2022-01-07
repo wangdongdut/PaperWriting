@@ -81,15 +81,12 @@
 
 * :star:**[Checklist before Submitting a Journal Paper](http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
 
-* **[Grammarly](https://www.grammarly.com/)**：https://www.grammarly.com/
-
-* **[ComposAI](https://www.compos.ai/)**：https://www.compos.ai/
-
-* **[Ginger](https://www.gingersoftware.com/)**：https://www.gingersoftware.com/
-
-* **[LanguageTool](https://languagetool.org/)**：https://languagetool.org/
-
-* **Many Others**：[[1](https://zhuanlan.zhihu.com/p/47189517)]，[[2](https://zhuanlan.zhihu.com/p/28379537)]，[[3](https://www.cnblogs.com/jins-note/p/9565314.html)]，...
+* **Tools**：
+  ** **[Grammarly](https://www.grammarly.com/)**：https://www.grammarly.com/
+  ** **[ComposAI](https://www.compos.ai/)**：https://www.compos.ai/
+  ** **[Ginger](https://www.gingersoftware.com/)**：https://www.gingersoftware.com/
+  ** **[LanguageTool](https://languagetool.org/)**：https://languagetool.org/
+  ** **Many Others**：[[1](https://zhuanlan.zhihu.com/p/47189517)]，[[2](https://zhuanlan.zhihu.com/p/28379537)]，[[3](https://www.cnblogs.com/jins-note/p/9565314.html)]，...
 
 ### Supplementary Material [Examples]
 
