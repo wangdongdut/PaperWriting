@@ -51,11 +51,11 @@
   * [AWL Headwords](https://www.wgtn.ac.nz/lals/resources/academicwordlist/awl-headwords/Headwords-of-the-Academic-Word-List.pdf) 
   * [AWL Most Frequent Words in Sublists](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/AWLmostfreqsublists.pdf)
 
-* **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
-
 * **https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary]**
 
-### Equation
+### Equation & Math
+
+* **[A Brief Introduction to Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
 * **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
