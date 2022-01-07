@@ -54,7 +54,7 @@
 
 * **https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary]**
 
-### Equation & Math
+### Mathematics & Equation
 
 * **[A Brief Introduction to Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
