@@ -85,7 +85,7 @@
 * **[BibTeX Templates[Staf,MIT]](http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf)**: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
 * **[Bibliography Management with BibTex[Overleaf]](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex)**：https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex
 * **[[Writing Tips-bib](https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx):star2:]**：https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx 
-* **[文献管理-五款常用的文献管理神软件[知乎]](https://zhuanlan.zhihu.com/p/86711732)**：https://zhuanlan.zhihu.com/p/86711732
+* **[文献管理-全网最全·文献管理软件[知乎]](https://zhuanlan.zhihu.com/p/146484505)**：https://zhuanlan.zhihu.com/p/146484505
 
 ### Grammar Mistakes & Typos
 
