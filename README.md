@@ -43,6 +43,8 @@
 * :star2: [**Overleaf**](https://www.overleaf.com/https://www.overleaf.com/)：https://www.overleaf.com/
   * [**Learn LaTeX in 30 minutes**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
+* [**一份其实很短的 LaTeX 入门文档**](https://liam.page/2014/09/08/latex-introduction/)：https://liam.page/2014/09/08/latex-introduction/)
+
 * [**LaTeXStudio**](https://www.latexstudio.net/)：[[Homepage](https://www.latexstudio.net/)][[Github](https://github.com/latexstudio/LaTeX-TeXWiki)][[B站](https://space.bilibili.com/209746320)]
 
 ### Language 
