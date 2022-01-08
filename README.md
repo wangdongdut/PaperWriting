@@ -236,7 +236,7 @@
 * **[懒人制作学术会议Oral/Spotlight Video指南](https://zhuanlan.zhihu.com/p/142394787?from_voters_page=true)**
 * **Poster范例**
   * [Poster Template from Prof. Bolei Zhou](https://github.com/zhoubolei/poster_template)：https://github.com/zhoubolei/poster_template
-  * :star2: **Valse**：[Valse2021 Poster PDFs](http://valser.org/2021/#/poster)
+  * :star2: **[VALSE](http://valser.org/)**：[Valse2021 Poster PDFs](http://valser.org/2021/#/poster)
 
 # Other Resources
 
