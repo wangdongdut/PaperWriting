@@ -74,6 +74,8 @@
    * [你值得拥有！8款科研论文做图软件[知乎]](https://zhuanlan.zhihu.com/p/134045056)：https://zhuanlan.zhihu.com/p/134045056
    * [科研论文中用什么软件作图最好？[知乎讨论]](https://www.zhihu.com/question/27172510/answer/2109849277)：https://www.zhihu.com/question/27172510/answer/2109849277
    * [如何在论文中画出漂亮的插图?[知乎讨论]](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
+   * [50种Matplotlib科研论文绘图合集，含代码实现[知乎](https://zhuanlan.zhihu.com/p/220345912)：https://zhuanlan.zhihu.com/p/220345912
+   * [你在科研中用什么软件作图？能展示一下吗？[知乎](你在科研中用什么软件作图？能展示一下吗？)：https://www.zhihu.com/question/268877581/answer/2277678667
    * [论文中对比实验作图利器：MulimgViewer（多图像浏览器）](https://zhuanlan.zhihu.com/p/389630280): [[知乎](https://zhuanlan.zhihu.com/p/389630280)][[**Github**](https://github.com/nachifur/MulimgViewer)] 
    * [论文绘图神器来了：一行代码绘制不同期刊格式图表，哈佛博士后开源[量子位/知乎]](https://zhuanlan.zhihu.com/p/151642250)：https://zhuanlan.zhihu.com/p/151642250
 
