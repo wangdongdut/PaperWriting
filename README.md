@@ -71,6 +71,7 @@
 * **Examples：**
 
 * **Others：**
+   * [你值得拥有！8款科研论文做图软件[知乎]](https://zhuanlan.zhihu.com/p/134045056)：https://zhuanlan.zhihu.com/p/134045056
    * [如何在论文中画出漂亮的插图?[知乎讨论]](https://www.zhihu.com/question/21664179)：https://www.zhihu.com/question/21664179
    * [论文中对比实验作图利器：MulimgViewer（多图像浏览器）](https://zhuanlan.zhihu.com/p/389630280): [[知乎](https://zhuanlan.zhihu.com/p/389630280)][[**Github**](https://github.com/nachifur/MulimgViewer)] 
    * [论文绘图神器来了：一行代码绘制不同期刊格式图表，哈佛博士后开源[量子位/知乎]](https://zhuanlan.zhihu.com/p/151642250)：https://zhuanlan.zhihu.com/p/151642250
