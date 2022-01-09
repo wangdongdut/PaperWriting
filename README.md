@@ -13,8 +13,6 @@
 
 * **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
 
-* :star2: **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：https://mmcheng.net/writing/
-
 * :star2:**[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
    * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
    * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
@@ -29,12 +27,6 @@
 * **[How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)**：http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf
 
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
-
-* **[如何提高英文的科研写作能力[施一公]](https://blog.sciencenet.cn/blog-46212-349932.html)：转自施一公科学网博客**
-
-* **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
-
-* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
 
@@ -236,6 +228,14 @@
 * **[How to Write A Computer Science Paper](https://www.froihofer.net/en/students/how-to-write-a-computer-science-paper.html)**
 
 * **[从IEEE汇刊主编视角看如何提升科技论文质量[过敏意]](https://mp.weixin.qq.com/s/KXFJymNek39QMao5CpGdaw)**
+
+* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：
+
+* **[如何提高英文的科研写作能力[施一公]](https://blog.sciencenet.cn/blog-46212-349932.html)：转自施一公科学网博客**
+
+* **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
+
+* **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
 # Oral & Poster
 
