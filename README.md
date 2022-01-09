@@ -254,6 +254,8 @@
 
 * [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)，[计算机视觉研究入门全指南](https://www.52cv.net/?p=524)
 
+* [[如何做研究][如何写论文][CSDN]](https://blog.csdn.net/dadongwudi/article/details/105540861)
+
 * [计算机视觉入门大全：基础概念、运行原理、应用案例详解](https://zhuanlan.zhihu.com/p/88898444)
 
 * [罗杰波、马毅、华刚等谈视觉研究那些事：是时候重新定义视觉了[雷锋网202005]](https://www.leiphone.com/news/202005/aTWsDtgTcB9VrRWC.html)
