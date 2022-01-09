@@ -4,42 +4,60 @@
 
 * :star2: **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)** [[**GoogleDoc**](https://docs.google.com/viewer?a=v&pid=sites&srcid=dWFsYmVydGEuY2F8amlueGluLWhlfGd4OjJkZTdlZmNhNDljYzhiYWM)]
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
+
 * :star2: **[学术研究，你的成功之道](https://book.douban.com/subject/20284332/)：凌晓峰/杨强，出版社: 清华大学出版社**
+
 * :star2: **[做研究与写论文[周志华]](https://zhuanlan.zhihu.com/p/98747105)**：https://zhuanlan.zhihu.com/p/98747105 
+
 * **[You and Your Research [Richard Hamming]](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**：[**[Website](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**][**[Video](https://www.youtube.com/watch?v=a1zDuOPkMSw)**]
+
 * **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
+
 * :star2:**[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
    * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
    * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
+
 * :star2:**[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
+
 * **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
+
 * **[Research Guidelines by 	Jan van Gemert](https://jvgemert.github.io/links.html)**：https://jvgemert.github.io/links.html
   * General Research/Writing/Template/Presentation/Poster/Reviewing/Rebuttal/...
+
 * **[How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)**：http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf
+
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
+
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
+
 * **[PHD Comics](https://phdcomics.com/)**: https://phdcomics.com/
 
 ### Latex
 
 * :star2: [**Overleaf**](https://www.overleaf.com/https://www.overleaf.com/)：https://www.overleaf.com/
   * [**Learn LaTeX in 30 minutes**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
 * [**一份其实很短的 LaTeX 入门文档**](https://liam.page/2014/09/08/latex-introduction/)：https://liam.page/2014/09/08/latex-introduction/
+
 * [**LaTeXStudio**](https://www.latexstudio.net/)：[[Homepage](https://www.latexstudio.net/)][[Github](https://github.com/latexstudio/LaTeX-TeXWiki)][[B站](https://space.bilibili.com/209746320)]
 
 ### Language 
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
+
 * [**The Academic Word List**](https://www.wgtn.ac.nz/lals/resources/academicwordlist)：https://www.wgtn.ac.nz/lals/resources/academicwordlist
   * [AWL Sublist Families](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/awlsublists1.pdf)
   * [AWL Headwords](https://www.wgtn.ac.nz/lals/resources/academicwordlist/awl-headwords/Headwords-of-the-Academic-Word-List.pdf) 
   * [AWL Most Frequent Words in Sublists](https://www.wgtn.ac.nz/lals/resources/academicwordlist/publications/AWLmostfreqsublists.pdf)
+
 * **https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary]**
 
 ### Mathematics & Equation
 
 * **[A Brief Introduction to Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+
 * **[Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
+
 * **[公式编辑器推荐！研究生写论文必备神器[知乎]](https://zhuanlan.zhihu.com/p/336084313)**: https://zhuanlan.zhihu.com/p/336084313
 
 ### Figures & Plots
@@ -99,9 +117,13 @@
 ### Submission
 
 * [**How to write a good CVPR submission[Bill Freeman]**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf [**2018-version**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
+
 * [**How to write a good paper(Jitendra Malik)**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/malik_write_good_paper.pdf)：https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/malik_write_good_paper.pdf
+
 * [**NIPS paper evaluation criteria**](http://nips07.stanford.edu/NIPS-evaluation.html)：http://nips07.stanford.edu/NIPS-evaluation.html
+
 * [**Tips on publishing in NIPS, ICML or any top tier conferences for ML**](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)：https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/
+
 * **More Resources**：**See [Online Reports & Slides](https://github.com/wangdongdut/PaperWriting/blob/master/README.md#online-reports--slides)**
 
 ### Review
@@ -121,19 +143,28 @@
 ### Rebuttal
 
 * [**浅谈学术论文Rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
+
 * [**学术论文投稿与返修（Rebuttal）分享[叶茫]**](https://zhuanlan.zhihu.com/p/344008879)：https://zhuanlan.zhihu.com/p/344008879
+
 * [**如何写学术论文的Rebuttal?[知乎讨论]**](https://www.zhihu.com/question/32055996)：https://www.zhihu.com/question/32055996
+
 * [**怎样写计算机会议的Rebuttal**](https://qiyuhua.github.io/%E5%AD%A6%E4%B9%A0/2013/05/17/rebuttal.html)：https://qiyuhua.github.io/%E5%AD%A6%E4%B9%A0/2013/05/17/rebuttal.html
+
 * [**How to Write A Rebuttal of Paper Review**](https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/)：https://stephenxichen.wordpress.com/2014/01/21/how-to-write-a-rebuttal-of-paper-review/
+
 * [**论文得分低、濒临被拒不要慌，18条Rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
 ### Paper Reading
 
 * **[How to Read a Paper[S. Keshav]](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)**：http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+
 * **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
+
 * [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
+
 * [**ReadPaper论文阅读[沈向洋团队]**](https://space.bilibili.com/1706874133)：https://space.bilibili.com/1706874133
   * [在线论文阅读平台ReadPaper](https://readpaper.com/)：https://readpaper.com/
+
 * [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards/)：https://jeffhuang.com/best_paper_awards/
 
 
@@ -142,13 +173,17 @@
 ### Cover Letter
 
 * **[How to Write the Best Journal Submission Cover Letter](https://wordvice.com/journal-submission-cover-letter/)**
+
 * **[Writing a cover letter for journal submission](https://authorservices.taylorandfrancis.com/writing-a-cover-letter/)**
 
 ### Response Letter
 
 * [**How to Write an Effective Response Letter to a Journal Editor and Reviewers**](https://cdn.ymaws.com/www.amwa.org/resource/resmgr/Conference/2017/SessionRoundtableHandouts/Roundtable_HandoutWritingEff.pdf)
+
 * [**Writing Effective Revision Response Letters[Niklas Elmqvist]**](https://sites.umiacs.umd.edu/elm/2017/06/23/revision-response-letters/) 
+
 * [**Reviewing Papers and Writing Response Letters[Elena Parmiggiani]**](https://www.ntnu.no/wiki/download/attachments/98080956/Paper%20reviews%20and%20response%20letter%20-%20Elena%20P.pdf?version=4&modificationDate=1493744889000&api=v2)
+
 * [**Apply More Time for Journal Revision**](https://github.com/wangdongdut/PaperWriting/blob/master/Apply%20More%20Time%20for%20Journal%20Revision.doc)
 
 ### Template
@@ -205,7 +240,9 @@
 # Oral & Poster
 
 * **[如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)**
+
 * **[懒人制作学术会议Oral/Spotlight Video指南](https://zhuanlan.zhihu.com/p/142394787?from_voters_page=true)**
+
 * **Poster范例**
   * [Poster Template from Prof. Bolei Zhou](https://github.com/zhoubolei/poster_template)：https://github.com/zhoubolei/poster_template
   * :star2: **[VALSE](http://valser.org/)**：[Valse2021 Poster PDFs](http://valser.org/2021/#/poster)
