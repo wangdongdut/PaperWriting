@@ -159,6 +159,8 @@
 
 * [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
 
+* [**ReadPaper论文阅读[沈向洋团队]**](https://space.bilibili.com/1706874133)：https://space.bilibili.com/1706874133
+
 * [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards/)：https://jeffhuang.com/best_paper_awards/
 
 
