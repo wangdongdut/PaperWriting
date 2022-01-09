@@ -154,13 +154,10 @@
 ### Paper Reading
 
 * **[How to Read a Paper[S. Keshav]](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)**：http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
-
 * **[Reading Research Papers[Andrew Ng, Stanford CS230]](https://www.youtube.com/watch?v=733m6qBH-jI)**
-
 * [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
-
 * [**ReadPaper论文阅读[沈向洋团队]**](https://space.bilibili.com/1706874133)：https://space.bilibili.com/1706874133
-
+  * [在线论文阅读平台ReadPaper](https://readpaper.com/)：https://readpaper.com/
 * [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards/)：https://jeffhuang.com/best_paper_awards/
 
 
