@@ -157,6 +157,9 @@
 
 * [**深度学习论文精读[李沐]**](https://github.com/mli/paper-reading)：https://github.com/mli/paper-reading
 
+* [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards/)：https://jeffhuang.com/best_paper_awards/
+
+
 # Paper Writing[Journal]
 
 ### Cover Letter
