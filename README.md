@@ -30,7 +30,7 @@
 
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
 
-* **[如何提高英文的科研写作能力[施一公](https://blog.sciencenet.cn/blog-46212-349932.html)：转自施一公科学网博客**
+* **[如何提高英文的科研写作能力[施一公]](https://blog.sciencenet.cn/blog-46212-349932.html)：转自施一公科学网博客**
 
 * **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 
