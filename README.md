@@ -236,7 +236,7 @@
 * **[撰写学术论文的经验和教训[山世光]](https://kjc.jit.edu.cn/images/201391522430.pdf)**
 * **[How to Write A Computer Science Paper](https://www.froihofer.net/en/students/how-to-write-a-computer-science-paper.html)**
 * **[从IEEE汇刊主编视角看如何提升科技论文质量[过敏意]](https://mp.weixin.qq.com/s/KXFJymNek39QMao5CpGdaw)**
-* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**：
+* **[Scientific Paper Writing from Ming-ming Cheng](https://mmcheng.net/writing/)**
 * **[如何提高英文的科研写作能力[施一公]](https://blog.sciencenet.cn/blog-46212-349932.html)：转自施一公科学网博客**
 * **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 * **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
