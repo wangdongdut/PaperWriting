@@ -3,6 +3,7 @@
 
 # Contents
   * **[I. Paper Writing[General Guidelines]](#jump-1)**
+    * Research & Writing, Latex, Language, Mathematics & Equation, Figures & Plots, BibTex & Reference, Grammar Mistakes & Typos, Supplementary Material, Others
   * **[II. Paper Writing[Conference]](#jump-2)**
   * **[III. Paper Writing[Journal]](#jump-3)**
   * **[IV. Online Reports & Slides](#jump-4)**
