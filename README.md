@@ -9,28 +9,24 @@
 
 * :star2: **[做研究与写论文[周志华]](https://zhuanlan.zhihu.com/p/98747105)**：https://zhuanlan.zhihu.com/p/98747105 
 
-* **[You and Your Research [Richard Hamming]](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**：[**[Website](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**][**[Video](https://www.youtube.com/watch?v=a1zDuOPkMSw)**]
+* :star2: **[You and Your Research [Richard Hamming]](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**：[**[Website](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)**][**[Video](https://www.youtube.com/watch?v=a1zDuOPkMSw)**]
 
-* **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
-
-* :star2:**[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
-   * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
-   * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
-
-* :star2:**[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
+* :star2: **[De-Mystifying Good Research and Good Papers [Fei-fei Li]](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)**：https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html
 
 * :star2:**[Research Guidelines by 	Jan van Gemert](https://jvgemert.github.io/links.html)**：https://jvgemert.github.io/links.html
   * General Research/Writing/Template/Presentation/Poster/Reviewing/Rebuttal/...
 
-* **[How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)**：http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf
+* **[科学写作与哲学[黄经纬]](https://zhuanlan.zhihu.com/p/433168083)**：
+   * **[九阴真经上卷——论文方法论](https://zhuanlan.zhihu.com/p/433168083)**
+   * **[九阴真经下卷-论文实操-CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905)**
 
-* **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
+* **[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
 
-* **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
-
-* **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
-
-* **[PHD Comics](https://phdcomics.com/)**: https://phdcomics.com/
+* **Others:"
+   * [How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+   * [A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)
+   * [Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext) 
+   * [PHD Comics](https://phdcomics.com/)
 
 ### Latex
 
