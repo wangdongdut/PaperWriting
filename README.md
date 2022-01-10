@@ -2,6 +2,12 @@
 **[课程简版Video[待上传]]()**, **[课程简版PPT[待上传]]()**
 
 # Contents
+  * I. Paper Writing[General Guidelines]
+  * II. Paper Writing[Conference]
+  * III. Paper Writing[Journal]
+  * IV. Online Reports & Slides
+  * V. Oral & Poster
+  * VI. Other Resources
 
 # I. Paper Writing[General Guidelines]
 
