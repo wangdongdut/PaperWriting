@@ -3,7 +3,7 @@
 
 # Contents
   * **[I. Paper Writing[General Guidelines]](#jump-1)**
-    * Research & Writing, Latex, Language, Mathematics & Equation, Figures & Plots, BibTex & Reference, Grammar Mistakes & Typos, Supplementary Material, Others
+    * [Research & Writing](#jump-1-1), [Latex](#jump-1-2), [Language](#jump-1-3), [Mathematics & Equation](#jump-1-4), [Figures & Plots](#jump-1-5), [BibTex & Reference](#jump-1-6), [Grammar Mistakes & Typos](#jump-1-7), [Supplementary Material](#jump-1-8), [Others](#jump-1-9)
   * **[II. Paper Writing[Conference]](#jump-2)**
     * [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
     * Submission, Rebuttal, Paper Reading
@@ -15,7 +15,7 @@
 
 # <span id = 'jump-1'>I. Paper Writing[General Guidelines]</span>
 
-### Research & Writing
+### <span id = 'jump-1-1'>Research & Writing</span>
 
 * :star2: **[像外行一样思考，像专家一样实践——科研成功之道[金出武雄]](https://book.douban.com/subject/1867455/)** [[**GoogleDoc**](https://docs.google.com/viewer?a=v&pid=sites&srcid=dWFsYmVydGEuY2F8amlueGluLWhlfGd4OjJkZTdlZmNhNDljYzhiYWM)]
   * [Public Lecture with Dr Takeo Kanade: Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics](https://www.kyotoprize.ox.ac.uk/events/public-lecture-dr-takeo-kanade)：https://www.youtube.com/watch?v=0B9hhOTYa_I
@@ -43,7 +43,7 @@
    * [Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext) 
    * [PHD Comics](https://phdcomics.com/)：https://phdcomics.com/
 
-### Latex
+### <span id = 'jump-1-2'>Latex</span>
 
 * :star2: [**Overleaf**](https://www.overleaf.com/https://www.overleaf.com/)：https://www.overleaf.com/
   * [**Learn LaTeX in 30 minutes**](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
@@ -52,7 +52,7 @@
 
 * [**LaTeXStudio**](https://www.latexstudio.net/)：[[Homepage](https://www.latexstudio.net/)][[Github](https://github.com/latexstudio/LaTeX-TeXWiki)][[B站](https://space.bilibili.com/209746320)]
 
-### Language 
+### <span id = 'jump-1-3'>Language</span>
 
 * [**The Elements of Style**](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)：http://www.jlakes.org/ch/web/The-elements-of-style.pdf [[豆瓣评论](https://book.douban.com/subject/1433835/)]
 
@@ -63,7 +63,7 @@
 
 * **https://github.com/beacandler/awesome-cv-writing [A very interesting collection and summary]**
 
-### Mathematics & Equation
+### <span id = 'jump-1-4'>Mathematics & Equation</span>
 
 * **[A Brief Introduction to Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)**：https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf
 
@@ -71,7 +71,7 @@
 
 * **[公式编辑器推荐！研究生写论文必备神器[知乎]](https://zhuanlan.zhihu.com/p/336084313)**: https://zhuanlan.zhihu.com/p/336084313
 
-### Figures & Plots
+### <span id = 'jump-1-5'>Figures & Plots</span>
 
 * **Examples：**
 
@@ -84,7 +84,7 @@
    * [论文中对比实验作图利器：MulimgViewer（多图像浏览器）](https://zhuanlan.zhihu.com/p/389630280): [[知乎](https://zhuanlan.zhihu.com/p/389630280)][[**Github**](https://github.com/nachifur/MulimgViewer)] 
    * [论文绘图神器来了：一行代码绘制不同期刊格式图表，哈佛博士后开源[量子位/知乎]](https://zhuanlan.zhihu.com/p/151642250)：https://zhuanlan.zhihu.com/p/151642250
 
-### BibTex & Reference
+### <span id = 'jump-1-6'>BibTex & Reference</span>
 
 * **[BibTex](http://www.bibtex.org/)**: http://www.bibtex.org/
 * **[BibTeX Templates[Staf,MIT]](http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf)**: http://web.mit.edu/rsi/www/pdfs/bibtex-format.pdf
@@ -92,7 +92,7 @@
 * **[[Writing Tips-bib](https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx):star2:]**：https://github.com/wangdongdut/PaperWriting/blob/master/Writing%20Tips-bib.docx 
 * **[全网最全·文献管理软件[知乎]](https://zhuanlan.zhihu.com/p/146484505)**：https://zhuanlan.zhihu.com/p/146484505
 
-### Grammar Mistakes & Typos
+### <span id = 'jump-1-7'>Grammar Mistakes & Typos</span>
 
 * :star:**[Checklist before Submitting a Journal Paper](http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf)**: http://staff.ustc.edu.cn/~jpq/writing/checklist.pdf
 
@@ -105,7 +105,7 @@
 
 * **Professional Language Editing**：**[American Journal Experts](https://www.aje.cn/)**, **[Elsevier Webshop](https://cn.webshop.elsevier.com/)**, **[SpringerNature Language Editing](https://authorservices.springernature.cn/language-editing/)**, **[Wiley Editing Services](https://editingservices.wiley.cn/)**, ...
 
-### Supplementary Material [Examples]
+### <span id = 'jump-1-7'>Supplementary Material</span>
 
 * **Source Codes**: 
   * **:star:Linus Torvalds Quote: “Talk is cheap. Show me the code.”:star:**
@@ -117,7 +117,7 @@
 
 * **High-resolution and Vivid Images, Cartoon & Videos**: 
 
-### Others
+### <span id = 'jump-1-8'>Others</span>
 
 * :star:[**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
