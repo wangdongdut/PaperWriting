@@ -105,7 +105,7 @@
 
 * **Professional Language Editing**：**[American Journal Experts](https://www.aje.cn/)**, **[Elsevier Webshop](https://cn.webshop.elsevier.com/)**, **[SpringerNature Language Editing](https://authorservices.springernature.cn/language-editing/)**, **[Wiley Editing Services](https://editingservices.wiley.cn/)**, ...
 
-### <span id = 'jump-1-7'>Supplementary Material</span>
+### <span id = 'jump-1-8'>Supplementary Material</span>
 
 * **Source Codes**: 
   * **:star:Linus Torvalds Quote: “Talk is cheap. Show me the code.”:star:**
@@ -117,7 +117,7 @@
 
 * **High-resolution and Vivid Images, Cartoon & Videos**: 
 
-### <span id = 'jump-1-8'>Others</span>
+### <span id = 'jump-1-9'>Others</span>
 
 * :star:[**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
@@ -125,7 +125,7 @@
 
 ### :star2:[AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
 
-### Submission
+### <span id = 'jump-2-1'>Submission</span>
 
 * [**How to write a good CVPR submission[Bill Freeman]**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf [**2018-version**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
 
@@ -140,7 +140,7 @@
 
 * **More Resources**：**See [Online Reports & Slides](https://github.com/wangdongdut/PaperWriting/blob/master/README.md#online-reports--slides)**
 
-### Review
+### <span id = 'jump-2-2'>Review</span>
 
 * **Discussions in Top-tier Conferences**:star:
   * [**Reviewing the Review Process(ICCV2021)**](https://sites.google.com/view/reviewing-the-review-process/): https://sites.google.com/view/reviewing-the-review-process/
@@ -154,7 +154,7 @@
 
 * [**做学术期刊的审稿人是怎样的体验?[知乎讨论]**](https://www.zhihu.com/question/38881545)
 
-### Rebuttal
+### <span id = 'jump-2-3'>Rebuttal</span>
 
 * [**浅谈学术论文Rebuttal[魏秀参]**](https://zhuanlan.zhihu.com/p/104298923)：https://zhuanlan.zhihu.com/p/104298923
 
@@ -168,7 +168,7 @@
 
 * [**论文得分低、濒临被拒不要慌，18条Rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
-### Paper Reading
+### <span id = 'jump-2-4'>Paper Reading</span>
 
 * **[How to Read a Paper[S. Keshav]](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)**：http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 
@@ -183,13 +183,13 @@
 
 # <span id = 'jump-3'>III. Paper Writing[Journal]</span>
 
-### Cover Letter
+### <span id = 'jump-3-1'>Cover Letter</span>
 
 * **[How to Write the Best Journal Submission Cover Letter](https://wordvice.com/journal-submission-cover-letter/)**
 
 * **[Writing a cover letter for journal submission](https://authorservices.taylorandfrancis.com/writing-a-cover-letter/)**
 
-### Response Letter
+### <span id = 'jump-3-2'>Response Letter</span>
 
 * [**How to Write an Effective Response Letter to a Journal Editor and Reviewers**](https://cdn.ymaws.com/www.amwa.org/resource/resmgr/Conference/2017/SessionRoundtableHandouts/Roundtable_HandoutWritingEff.pdf)
 
@@ -199,7 +199,7 @@
 
 * [**Apply More Time for Journal Revision**](https://github.com/wangdongdut/PaperWriting/blob/master/Apply%20More%20Time%20for%20Journal%20Revision.doc)
 
-### Template
+### <span id = 'jump-3-3'>Template</span>
 
 * **[IEEE Transcations](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**
 * **[Elsevier Latex](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**
