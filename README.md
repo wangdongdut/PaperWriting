@@ -3,7 +3,7 @@
 
 # Contents
 
-# Paper Writing[General Guidelines]
+# （一）Paper Writing[General Guidelines]
 
 ### Research & Writing
 
