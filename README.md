@@ -6,9 +6,9 @@
     * [Research & Writing](#jump-1-1), [Latex](#jump-1-2), [Language](#jump-1-3), [Mathematics & Equation](#jump-1-4), [Figures & Plots](#jump-1-5), [BibTex & Reference](#jump-1-6), [Grammar Mistakes & Typos](#jump-1-7), [Supplementary Material](#jump-1-8), [Others](#jump-1-9)
   * **[II. Paper Writing[Conference]](#jump-2)**
     * [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
-    * Submission, Rebuttal, Paper Reading
+    * [Submission](#jump-2-1), [Rebuttal]((#jump-2-2), [Paper Reading](#jump-2-3)
   * **[III. Paper Writing[Journal]](#jump-3)**
-    * Cover Letter, Response Letter, Template
+    * [Cover Letter](#jump-3-1), [Response Letter](#jump-3-2), [Template](#jump-3-3)
   * **[IV. Online Reports & Slides](#jump-4)**
   * **[V. Oral & Poster](#jump-5)**
   * **[VI. Other Resources](#jump-6)**
