@@ -3,7 +3,7 @@
 
 # Contents
 
-# （一）Paper Writing[General Guidelines]
+# I. Paper Writing[General Guidelines]
 
 ### Research & Writing
 
@@ -111,7 +111,7 @@
 
 * :star:[**Deep Paper Gestalt**](https://github.com/vt-vl-lab/paper-gestalt)：https://github.com/vt-vl-lab/paper-gestalt [[知乎](https://zhuanlan.zhihu.com/p/53008428)]
 
-# Paper Writing[Conference]
+# II. Paper Writing[Conference]
 
 ### :star2:[AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
 
@@ -171,8 +171,7 @@
 
 * [**Best Paper Awards in Computer Science**](https://jeffhuang.com/best_paper_awards/)：https://jeffhuang.com/best_paper_awards/
 
-
-# Paper Writing[Journal]
+# III. Paper Writing[Journal]
 
 ### Cover Letter
 
@@ -196,7 +195,7 @@
 * **[Elsevier Latex](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/)**
 * **[Springer Latex](https://www.springer.com/gp/livingreviews/latex-templates)**
 
-# Online Reports & Slides
+# IV. Online Reports & Slides
 
 ### 智源大会·科研技能提升讲座[2021]
 * [**如何撰写高质量科技论文[刘洋]**](https://www.bilibili.com/video/BV1QK4y1g71C)：https://www.bilibili.com/video/BV1QK4y1g71C
@@ -242,7 +241,7 @@
 * **[“侯沉，你的论文充斥着垃圾”： 浅谈英文科研写作](http://blog.sciencenet.cn/blog-414978-1060109.html)：转自候沉科学网博客** 
 * **[发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/fxfNoOvAqtI6jzDcsGzSdQ)：转自微软研究院AI头条**
 
-# Oral & Poster
+# V. Oral & Poster
 
 * **[如何制作一张好的学术海报(poster)？[知乎讨论]](https://www.zhihu.com/question/22014621)**
 
@@ -252,7 +251,7 @@
   * [Poster Template from Prof. Bolei Zhou](https://github.com/zhoubolei/poster_template)：https://github.com/zhoubolei/poster_template
   * :star2: **[VALSE](http://valser.org/)**：[Valse2021 Poster PDFs](http://valser.org/2021/#/poster)
 
-# Other Resources
+# VI. Other Resources
 
 * https://github.com/secdr/research-method
 * https://github.com/taopanpan/CasitLab
