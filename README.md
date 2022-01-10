@@ -26,7 +26,7 @@
    * [How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
    * [A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)
    * [Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext) 
-   * [PHD Comics](https://phdcomics.com/)
+   * [PHD Comics](https://phdcomics.com/)：https://phdcomics.com/
 
 ### Latex
 
