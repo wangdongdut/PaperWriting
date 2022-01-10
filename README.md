@@ -257,7 +257,7 @@
   * [Poster Template from Prof. Bolei Zhou](https://github.com/zhoubolei/poster_template)：https://github.com/zhoubolei/poster_template
   * :star2: **[VALSE](http://valser.org/)**：[Valse2021 Poster PDFs](http://valser.org/2021/#/poster)
 
-# # <span id = 'jump-6'>VI. Other Resources</span>
+# <span id = 'jump-6'>VI. Other Resources</span>
 
 * https://github.com/secdr/research-method
 * https://github.com/taopanpan/CasitLab
