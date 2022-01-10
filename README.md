@@ -19,14 +19,14 @@
 
 * :star2:**[在做算法工程师的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？[高赞回答]](https://www.zhihu.com/question/436874654/answer/1808192248)**：https://www.zhihu.com/question/436874654/answer/1808192248
 
-* **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
-
-* **[Research Guidelines by 	Jan van Gemert](https://jvgemert.github.io/links.html)**：https://jvgemert.github.io/links.html
+* :star2:**[Research Guidelines by 	Jan van Gemert](https://jvgemert.github.io/links.html)**：https://jvgemert.github.io/links.html
   * General Research/Writing/Template/Presentation/Poster/Reviewing/Rebuttal/...
 
 * **[How to do good research, get it published in SIGKDD and get it cited![Eamonn Keogh]](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)**：http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf
 
 * **[What is Research and How to do it?[Yi Ma]](http://people.eecs.berkeley.edu/~yima/psfile/HowtodoResearch.ppt)**
+
+* **[A Survival Guide to a PhD[Andrej Karpathy]](http://karpathy.github.io/2016/09/07/phd/)**：http://karpathy.github.io/2016/09/07/phd/
 
 * **[Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-ph-d-s-from-the-facultys-perspective/fulltext)** 
 
