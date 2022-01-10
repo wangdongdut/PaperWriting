@@ -120,6 +120,9 @@
 
 * [**Tips on publishing in NIPS, ICML or any top tier conferences for ML**](https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/)：https://www.reddit.com/r/MachineLearning/comments/3x3urc/tips_on_publishing_in_nips_icml_or_any_top_tier/
 
+* **[Research Guidelines by 	Jan van Gemert](https://jvgemert.github.io/links.html)**：https://jvgemert.github.io/links.html
+  * General Research/Writing/Template/Presentation/Poster/Reviewing/Rebuttal/...
+
 * **More Resources**：**See [Online Reports & Slides](https://github.com/wangdongdut/PaperWriting/blob/master/README.md#online-reports--slides)**
 
 ### Review
