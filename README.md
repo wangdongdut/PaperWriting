@@ -8,6 +8,7 @@
     * [AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
     * Submission, Rebuttal, Paper Reading
   * **[III. Paper Writing[Journal]](#jump-3)**
+    * Cover Letter, Response Letter, Template
   * **[IV. Online Reports & Slides](#jump-4)**
   * **[V. Oral & Poster](#jump-5)**
   * **[VI. Other Resources](#jump-6)**
