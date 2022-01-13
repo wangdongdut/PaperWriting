@@ -71,6 +71,8 @@
 
 * **[公式编辑器推荐！研究生写论文必备神器[知乎]](https://zhuanlan.zhihu.com/p/336084313)**: https://zhuanlan.zhihu.com/p/336084313
 
+* **[Annotated Latex Equations](https://github.com/synercys/annotated_latex_equations)**: https://github.com/synercys/annotated_latex_equations
+
 ### <span id = 'jump-1-5'>Figures & Plots</span>
 
 * **Examples：**
