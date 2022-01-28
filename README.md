@@ -171,7 +171,7 @@
 
 * [**论文得分低、濒临被拒不要慌，18条Rebuttal小贴士助你说服评审和AC**](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650788604&idx=2&sn=7b52664f2080c63ef1cf8bca5370ab52&chksm=871a1682b06d9f94209b3794feb9c234f4f4cc68cf8751116bbdcfccb29de9fcafef670e7eb4&scene=0&xtrack=1)：https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1
 
-* **[VALSE Student Webinar 坐而论道or绝地反击：如何进行一次成功的Rebuttal？[Valse20220123]](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)[[视频-P1](hhttps://www.bilibili.com/video/BV1Ur4y1e7eX)][[视频-P2](https://www.bilibili.com/video/BV1R5411f7N2)][[视频-P3](https://www.bilibili.com/video/BV1944y1W7v1)][[活动主页](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)]**
+* **[VALSE Student Webinar 坐而论道or绝地反击：如何进行一次成功的Rebuttal？[Valse20220123]](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)[[视频-P1](https://www.bilibili.com/video/BV1Ur4y1e7eX)][[视频-P2](https://www.bilibili.com/video/BV1R5411f7N2)][[视频-P3](https://www.bilibili.com/video/BV1944y1W7v1)][[活动主页](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)]**
 
 ### <span id = 'jump-2-4'>Paper Reading</span>
 
@@ -223,7 +223,7 @@
 
 ### 资深专家/优秀学生聊研究，写/审论文 :star2:
 
-* **[VALSE Student Webinar 坐而论道or绝地反击：如何进行一次成功的Rebuttal？[Valse20220123]](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)[[视频-P1](hhttps://www.bilibili.com/video/BV1Ur4y1e7eX)][[视频-P2](https://www.bilibili.com/video/BV1R5411f7N2)][[视频-P3](https://www.bilibili.com/video/BV1944y1W7v1)][[活动主页](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)]**
+* **[VALSE Student Webinar 坐而论道or绝地反击：如何进行一次成功的Rebuttal？[Valse20220123]](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)[[视频-P1](https://www.bilibili.com/video/BV1Ur4y1e7eX)][[视频-P2](https://www.bilibili.com/video/BV1R5411f7N2)][[视频-P3](https://www.bilibili.com/video/BV1944y1W7v1)][[活动主页](https://mp.weixin.qq.com/s/PvtzVhbpcP03mkcfFxGLGw)]**
 * **[VALSE Student Webinar 论文写作那些事儿[Valse20220113]](https://mp.weixin.qq.com/s/cD8139TBSpaJSqud6yeiAg)[[视频-P1](https://www.bilibili.com/video/BV1eq4y1c7c8)][[视频-P2](https://www.bilibili.com/video/BV1q34y1i7oP)][[视频-P3](https://www.bilibili.com/video/BV1Q34y1i7xu)][[视频-P4](https://www.bilibili.com/video/BV1Xr4y1Y7jg)][[活动主页](https://mp.weixin.qq.com/s/cD8139TBSpaJSqud6yeiAg)]**
 * **[VALSE Webinar 如何做出高水平的科研工作？--来自顶会AC/PC的观点[Valse20210407]](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)[[视频链接](https://www.bilibili.com/video/BV1bB4y1w7Kq)][[活动主页](https://mp.weixin.qq.com/s/bj4ds8C_KVn5_E2-1W29gQ)]**
 * **[CVPR 2020 论文分享会 | 顶会主席聊“计算机视觉研究那些事”[微软亚洲研究院202006]](https://zhuanlan.zhihu.com/p/146992238)[[视频链接](https://www.bilibili.com/video/BV1w5411s7ga?from=search&seid=11112180197456782137)]**
