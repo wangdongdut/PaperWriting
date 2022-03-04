@@ -77,7 +77,7 @@
 ### <span id = 'jump-1-5'>Figures & Plots</span>
 
 * **Examples：**
-
+   * [python可视化（案例）高颜值图的复现（学术论文、商业周刊）[CSDN]](https://blog.csdn.net/weixin_43636051/article/details/108701550)：https://blog.csdn.net/weixin_43636051/article/details/108701550
 * **Others：**
    * [你值得拥有！8款科研论文做图软件[知乎]](https://zhuanlan.zhihu.com/p/134045056)：https://zhuanlan.zhihu.com/p/134045056
    * [科研论文中用什么软件作图最好？[知乎讨论]](https://www.zhihu.com/question/27172510/answer/2109849277)：https://www.zhihu.com/question/27172510/answer/2109849277
