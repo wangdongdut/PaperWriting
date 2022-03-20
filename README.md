@@ -126,8 +126,6 @@
 
 # <span id = 'jump-2'>II. Paper Writing[Conference]</span>
 
-### :star2:[AI Conference Deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences.html):star2:
-
 ### <span id = 'jump-2-1'>Submission</span>
 
 * [**How to write a good CVPR submission[Bill Freeman]**](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)：https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf [**2018-version**](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
